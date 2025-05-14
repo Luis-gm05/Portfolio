@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Luis Guerra Mateos",
+    "label": "Desarrollador de aplicaciones Multiplataforma",
+    "image": "",
+    "email": "luguema05@gmail.com",
+    "phone": "+34 611 44 15 88",
+    "url": "https://github.com/Luis-gm05",
+    "summary": "Desarrollador de aplicaciones multiplataforma con experiencia en Java, Spring Boot y diseño de interfaces. Apasionado por aprender nuevas tecnologías y construir soluciones prácticas.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "Zamora",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "Luis Guerra",
+      "url": "https://www.linkedin.com/in/luis-guerra-1b3238313/"
+    }]
+  },
+  "work": [{
+    "name": "GatesAir",
+    "position": "Prácticas",
+    "url": "https://www.gatesair.com/",
+    "startDate": "11-03-2025",
+    "endDate": "11-06-2025",
+    "summary": "Desarrollo de aplicaciones para el hardware de la empresa"
+  }],
+  "education": [{
+    "institution": "IES Claudio Moyano",
+    "url": "http://iesclaudiomoyano.centros.educa.jcyl.es/sitio/",
+    "area": "Desarrollo de aplicaciones Multiplataforma",
+    "studyType": "Ciclo formativo Grado Superior",
+    "startDate": "09-2023",
+    "endDate": "6-2025",
+    "courses": [
+      "Java", "MySQL", "HTML/CSS", ".NET Framework", "Spring Boot", "Android Studio"
+    ]
+  }],
+  "certificates": [{
+    "name": "Fundamentos de la inteligencia artificial",
+    "date": "27-03-2025",
+    "issuer": "OpenWebinars",
+    "url": "https://openwebinars.net/cert/aZ9i"
+  },
+  {
+    "name": "C1 Advanced - Score 192",
+    "date": "8-2022",
+    "issuer": "Cambridge english",
+    "url": "https://www.cambridgeenglish.org/es/exams-and-tests/advanced/"
+  }],
+  "skills": [{
+    "name": "Java 17 y superiores",
+    "level": "Avanzado"
+  },
+  {
+    "name":"Spring boot",
+    "level":"Avanzado"
+  }
+,
+  {
+    "name":".NET Framework",
+    "level":"Medio"
+  }
+,
+  {
+    "name":"Android Developement (Android Studio)",
+    "level":"Básico"
+  }
+,
+  {
+    "name":"HTML/CSS",
+    "level":"Avanzado"
+  }
+,
+  {
+    "name":"TailwindCSS",
+    "level":"Medio"
+  }
+,
+  {
+    "name":"MySQL",
+    "level":"Avanzado"
+  },
+  {
+    "name":"SQL Server",
+    "level":"Medio"
+  }
+,
+  {
+    "name":"MongoDB",
+    "level":"Básico"
+  },
+  {
+    "name":"Python",
+    "level":"Básico"
+  }
+,
+  {
+    "name":"React",
+    "level":"Básico"
+  }
+,
+  {
+    "name":"Diseño gráfico (Adobe Photoshop)",
+    "level":"Avanzado"
+  }],
+  "languages": [{
+    "language": "Inglés",
+    "fluency": "C1 Advanced - Score 192"
+  },
+  {
+    "language": "Italiano",
+    "fluency": "Básico"
+  }],
+  "projects": [{
+    "name": "SnapIt",
+    "description": "Copia de Instagram realizada con spring boot",
+    "url": "https://github.com/Luis-gm05/SnapIt"
+  },
+  {
+    "name": "LeagueOfTrading",
+    "description": "Broker de criptomonedas realizada con Spring Boot",
+    "url": "https://github.com/Luis-gm05/LeagueOfTrading"
+  }]
+}
